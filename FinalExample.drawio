@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-13T02:47:58.187Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0" etag="Ru9SGc1rHrWyAQ0vwvTE" version="12.4.1" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-12-13T02:53:27.000Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0" etag="usvV9oFFO_qYbtwF_2zb" version="12.4.1" type="github" pages="2">
   <diagram id="z9E2HfaiViPVtJKLez_Z" name="ClassDiagram_SmartFridge">
     <mxGraphModel dx="2241" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -210,7 +210,7 @@
         <mxCell id="7dQQDA-TgyCyUY0KTEKj-1" value="Monitor" style="html=1;" vertex="1" parent="ZcSr3NB8u_nz78DxC8lj-1">
           <mxGeometry x="280" y="80" width="120" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="xlSzm6LqCcU1XExFqyf4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=0;dashed=1;" edge="1" parent="ZcSr3NB8u_nz78DxC8lj-1" source="H2oBooCLBzHriAi5FGjq-3">
+        <mxCell id="xlSzm6LqCcU1XExFqyf4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=0;dashed=1;" edge="1" parent="ZcSr3NB8u_nz78DxC8lj-1" source="H2oBooCLBzHriAi5FGjq-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="540" y="640" as="targetPoint"/>
           </mxGeometry>
@@ -331,6 +331,21 @@
         </mxCell>
         <mxCell id="H2oBooCLBzHriAi5FGjq-14" value="getUserInput" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZcSr3NB8u_nz78DxC8lj-1">
           <mxGeometry x="30" y="434" width="80" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="H2oBooCLBzHriAi5FGjq-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ZcSr3NB8u_nz78DxC8lj-1">
+          <mxGeometry x="535" y="460" width="10" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="H2oBooCLBzHriAi5FGjq-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=0;dashed=1;" edge="1" parent="ZcSr3NB8u_nz78DxC8lj-1" source="H2oBooCLBzHriAi5FGjq-3" target="H2oBooCLBzHriAi5FGjq-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="640" as="targetPoint"/>
+            <mxPoint x="540" y="440" as="sourcePoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H2oBooCLBzHriAi5FGjq-18" value="&lt;div&gt;ifUserInput = True, then complete order &lt;br&gt;&lt;/div&gt;&lt;div&gt;ifElse then returnToMainMenu&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.5;entryY=0.238;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ZcSr3NB8u_nz78DxC8lj-1" target="H2oBooCLBzHriAi5FGjq-15">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="145" y="479" as="sourcePoint"/>
+            <mxPoint x="225" y="479" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
