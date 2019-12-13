@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-13T02:57:10.336Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0" etag="RkJPNmpMG5Env4Cav4tb" version="12.4.1" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-12-13T02:58:00.495Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0" etag="B5q9M9Ly3Uwkh1wo4TjV" version="12.4.1" type="github" pages="2">
   <diagram id="z9E2HfaiViPVtJKLez_Z" name="ClassDiagram_SmartFridge">
     <mxGraphModel dx="2241" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -246,7 +246,7 @@
           <mxGeometry x="110" y="420" width="30" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="Dnxbb0gQE78eo6-RQ6Rd-10" value="activateMonitor" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZcSr3NB8u_nz78DxC8lj-1">
-          <mxGeometry x="385" y="194" width="80" height="26" as="geometry"/>
+          <mxGeometry x="380" y="194" width="80" height="26" as="geometry"/>
         </mxCell>
         <mxCell id="Dnxbb0gQE78eo6-RQ6Rd-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="ZcSr3NB8u_nz78DxC8lj-1">
           <mxGeometry x="135" y="240" width="10" height="60" as="geometry"/>
@@ -327,7 +327,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H2oBooCLBzHriAi5FGjq-12" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;" vertex="1" parent="ZcSr3NB8u_nz78DxC8lj-1">
-          <mxGeometry x="355" y="190" width="30" height="60" as="geometry"/>
+          <mxGeometry x="345" y="190" width="30" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="H2oBooCLBzHriAi5FGjq-14" value="getUserInput" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ZcSr3NB8u_nz78DxC8lj-1">
           <mxGeometry x="30" y="434" width="80" height="26" as="geometry"/>
