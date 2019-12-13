@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-13T01:53:41.964Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0" etag="8YGxcgZHIikmC9dOcSG7" version="12.4.1" type="github" pages="1">
-  <diagram id="z9E2HfaiViPVtJKLez_Z" name="Page-1">
-    <mxGraphModel dx="2032" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="www.draw.io" modified="2019-12-13T01:58:45.207Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0" etag="Uw0T5xYz04M1XkCTqNsR" version="12.4.1" type="github" pages="2">
+  <diagram id="z9E2HfaiViPVtJKLez_Z" name="ClassDiagram_SmartFridge">
+    <mxGraphModel dx="2241" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -138,6 +138,14 @@
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="VC-fbIuvGJYDDxZZ6xTv" name="SequenceDiagram_SmartFridge">
+    <mxGraphModel dx="1182" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="ZcSr3NB8u_nz78DxC8lj-0"/>
+        <mxCell id="ZcSr3NB8u_nz78DxC8lj-1" parent="ZcSr3NB8u_nz78DxC8lj-0"/>
       </root>
     </mxGraphModel>
   </diagram>
